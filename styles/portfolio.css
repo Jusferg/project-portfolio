@@ -181,7 +181,7 @@ footer .contact-box {
     border-radius: 10px;
 }
 
-@media (max-width: 960px) {
+@media (max-width: 900px) {
     h1 {
         font-size: 44px;
         line-height: 56px;
@@ -197,6 +197,16 @@ footer .contact-box {
 
     .hero {
         padding: 80px 20px;
+    }
+
+    .content-container {
+        text-align: center;
+        padding: 0;
+    }
+    
+    .work-container {
+        text-align: center;
+        padding: 0;
     }
 
     .project-description {
